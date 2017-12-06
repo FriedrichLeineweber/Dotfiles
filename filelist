@@ -1,0 +1,6 @@
+.bashrc
+.config/i3/config
+.config/i3lock-fancier/config.ini
+.config/i3status/config
+.xinitrc
+.Xresources
