@@ -46,11 +46,15 @@ URxvt.font: xft:iosevka:style=Regular:size=12
 URxvt.boldFont: xft:iosevka:style=Bold:size=12
 !URxvt.letterSpace:-1
 URxvt.scrollBar: off
-URxvt.background: #2f343f
+!URxvt.background: #2f343f
+URxvt.background: #252933
 !URxvt.transparent: true
 !URxvt.inheritPixmap: true
 !URxvt.shading:120
 !URxvt.tintColor: #1C1C1C
 ! Included this so you know how to make your foreground not match the color of your background
 URxvt.foreground: #eeeeee
+!URxvt*color12: #3333bf
+URxvt*color12: #3939db
+URxvt*color4:  #3465A4
 
