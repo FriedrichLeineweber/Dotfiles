@@ -1,5 +1,10 @@
 Xft.dpi: 192
 Xcursor.size: 48
+Xft.lcdfilter: lcddefaults
+Xft.hintstyle: hintfull
+Xft.antialias: 1
+Xft.hinting: 1
+Xft.rgba: rgb
 
 !------------------------------------------------------------------------------
 ! ROFI Color theme
@@ -23,8 +28,8 @@ rofi.color-normal: argb:00000000, #e8e8e8, argb:00000000, argb:00000000, #e56aef
 rofi.color-urgent: argb:00000000, #f43753, argb:00000000, argb:00000000, #e56aef
 rofi.color-active: argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e56aef
 
-! rofi.font: System San Francisco Display 20
-rofi.font: Quicksand 20
+rofi.font: System San Francisco Display 20
+! rofi.font: Quicksand 20
 ! rofi.fg: argb:00ffffff
 rofi.eh: 1
 rofi.line-margin: 20
@@ -54,7 +59,7 @@ URxvt.background: #252933
 !URxvt.tintColor: #1C1C1C
 ! Included this so you know how to make your foreground not match the color of your background
 URxvt.foreground: #eeeeee
-!URxvt*color12: #3333bf
-URxvt*color12: #3939db
-URxvt*color4:  #3465A4
+!URxvt.color12: #3333bf
+URxvt.color12: #3939db
+URxvt.color4:  #3465A4
 
